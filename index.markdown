@@ -4,6 +4,3 @@
 
 layout: home
 ---
-{% t global.english %}
-or
-{% translate global.english %}
